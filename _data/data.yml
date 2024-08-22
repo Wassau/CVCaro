@@ -194,23 +194,6 @@ skill:
     - name: Bussiness models
       level: 4
 
-  # groups:
-  #   - name: Group A Skills
-  #     item:
-  #       - Skill A
-  #       - Skill B
-  #       - Skill C
-  #       - Skill D
-  #   - name: Group B Skills
-  #     item:
-  #       - Skill E
-  #       - Skill F
-  #       - Skill G
-  #   - name: Group C Skills
-  #     item:
-  #       - Skill H
-  #       - Skill I
-
 education:
   show: true
   order: 5
