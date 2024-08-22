@@ -9,7 +9,7 @@ contact:
   location: Sydney, Australia                        # location, text or markdown link syntax
   email: angiecarolinarodriguez00@gmail.com          # email address
   phone: +61-430 001 485                             # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com                               # site link without schema, like example.com, will automatically prepend "https://"
+  website:                                           # site link without schema, like example.com, will automatically prepend "https://"
 
   gender:                                            # gender or pronoun
   birthday: 13-03-1993                               # birthday
@@ -64,7 +64,7 @@ contact:
 
   # chat
   wechat:                                            # wechat id, text or markdown link syntax
-  whatsapp: https://wa.me/+61430001485               # https://wa.me/<number>
+  whatsapp: wa.me/+61430001485                       # https://wa.me/<number>
   telegram:                                          # https://t.me/<username>
   messenger:                                         # https://m.me/<username>
   line:                                              # https://line.me/R/ti/p/@<lineid>
@@ -117,7 +117,6 @@ experience:
       role: Accountant Analyst, UX Analyst
       location: Bogotá D.C, Colombia
       description: |
-        # Your key responsibilities and achievements in the company.
         + As a UX Analyst, I learned about services and products in a shared services center of the company, gathering user requirements through chat, calls, web services, and surveys. I then communicated key issues and strengths to the projects team.
 
     - company: Another Company
@@ -127,7 +126,6 @@ experience:
       role: Document Management
       location: Bogotá D.C, Colombia
       description: |
-        # Your key responsibilities and achievements in the company.
         + Managed and organized company documents, ensuring compliance with document management policies.
         + Coordinated the archiving and retrieval of documents as needed.
 
@@ -162,8 +160,7 @@ skill:
   order: 4
   title: Skills
   description: |
-    The skills section in a resume highlights the various skills you possess that are relevant to the job you are applying for. This section allows you to demonstrate your strengths and capabilities to potential employers.
-
+    
   items:
     - name: Leadership and Public Presentations
       level: 5
@@ -185,8 +182,7 @@ education:
   order: 5
   title: Education
   description: |
-    The education section in a resume provides information about your academic background, including degrees earned and relevant coursework or honors.
-
+    
   items:
     - institution: Universidad Minuto de Dios
       link: '#'
