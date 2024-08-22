@@ -99,7 +99,7 @@ profile:
   show: true
   order: 1
   title: Profile
-  description: 
+  description: |
   Financial agent and accountant seeking for job experience to apply my knowledge in regards of analytics and statistics.
     # The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
 
@@ -110,7 +110,7 @@ experience:
   order: 2
   title: Experiences
   description: |
-    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
+# The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
     - company: Compensar
@@ -120,7 +120,7 @@ experience:
       role: Accountant analist, UX analist.
       location: Colombia
       description: |
-        Your key responsibilities and achievements in the company.
+# Your key responsibilities and achievements in the company.
         + As Ux analist I have learnt about services and products in a shared center services of the company.
         to hear requirements of users through chat, calls, web services and surveys. In that way, I share the main problematics and strenghts to projects team.
 
@@ -171,9 +171,8 @@ skill:
   show: true
   order: 4
   title: Skills
-  description: 
-  , , , , , , .
-
+  description: |
+  
     # The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
 
     # The skills section can include both hard skills and soft skills. Hard skills are specific technical abilities or knowledge related to a particular job or industry, such as proficiency in programming languages or experience with certain software programs. Soft skills are more general personal traits and abilities, such as communication skills, leadership, problem-solving, or teamwork.
@@ -219,7 +218,7 @@ education:
   show: true
   order: 5
   title: Education
-  description: 
+  description: |
 
     # The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
 
@@ -360,7 +359,7 @@ language:
   show: true
   order: 11
   title: Languages
-  description: 
+  description: |
 
     # The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
 
@@ -376,7 +375,7 @@ interest:
   show: true
   order: 12
   title: Interests
-  description: 
+  description: |
 
     # The interests section in a resume typically refers to a section where you can mention your hobbies, interests, and activities outside of work or school. This section can give potential employers a better idea of your personality, your values, and your interests beyond your professional experience.
 
