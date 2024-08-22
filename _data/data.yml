@@ -8,7 +8,7 @@ basic:
 contact:
   location: Sydney, Australia                        # location, text or markdown link syntax
   email: angiecarolinarodriguez00@gmail.com          # email address
-  phone: +61-430 001 485                             # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone: +61 430 001 485                             # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:                                           # site link without schema, like example.com, will automatically prepend "https://"
 
   gender:                                            # gender or pronoun
@@ -176,6 +176,23 @@ skill:
       level: 5
     - name: Business Models
       level: 4
+
+  groups:
+    - name: Group A Skills
+      item:
+        - Skill A
+        - Skill B
+        - Skill C
+        - Skill D
+    - name: Group B Skills
+      item:
+        - Skill E
+        - Skill F
+        - Skill G
+    - name: Group C Skills
+      item:
+        - Skill H
+        - Skill I
 
 education:
   show: true
