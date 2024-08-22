@@ -115,7 +115,7 @@ experience:
       tags: Full-time, remote
       date: 2019.03 - 2023.07
       role: Accountant analist, UX analist.
-      location: Colombia
+      location: Bogotá D.C, Colombia
       description: |
 # Your key responsibilities and achievements in the company.
         + As Ux analist I have learnt about services and products in a shared center services of the company.
@@ -123,16 +123,16 @@ experience:
 
         + 
 
-    # - company: 
-    #   link:
-    #   tags: Part-time, remote
-    #   date: 2017.03 - 2018.03
-    #   role: Backend Developer
-    #   location: Beijing
-    #   description: |
-    #     Your key responsibilities and achievements in the company.
-    #     + First
-    #     + Second
+    - company: 
+      link:
+      tags: Part-time, remote
+      date: 2017.03 - 2018.03
+      role: Document managment
+      location: Bogota D.C, Colombia
+      description: |
+        Your key responsibilities and achievements in the company.
+        + First
+        + Second
 
 project:
   show: false
