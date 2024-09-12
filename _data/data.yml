@@ -119,11 +119,11 @@ experience:
       description: |
         + As a UX Analyst, I learned about services and products in a shared services center of the company, gathering user requirements through chat, calls, web services, and surveys. I then communicated key issues and strengths to the projects team.
 
-    - company: Another Company
+    - company: AFM solutions
       link: 
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Document Management
+      tags: Full-time
+      date: 2017.03 - 2018.12
+      role: administrative assistant
       location: Bogotá D.C, Colombia
       description: |
         + Managed and organized company documents, ensuring compliance with document management policies.
@@ -167,11 +167,17 @@ skill:
         - Leadership
         - Effective Communication
         - Teamworker
+        - 
     - name: Sofware Skills
       item:
         - Power BI
         - Excel
+        - Teams
         - SAP
+    - name: Lannguges
+      item:
+        - English (Advanced)
+        - Spanish (Native)
 
 education:
   show: true
@@ -186,8 +192,7 @@ education:
       major: Financial Administration
       degree: Bachelor
       description: |
-        Additional information for this institution.
-        + Graduated with honors.
+        + Sustainable projects related with business simulation and analytics for financial health.
         + Completed a thesis on financial risk management.
 
 certificate:
